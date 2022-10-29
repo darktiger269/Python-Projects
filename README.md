@@ -8,7 +8,7 @@ These are projects & challenges that I have successfully completed while using Z
   - The code uploaded shows basic usage of **namedtuple() =**
 
 - **Section 2-3**: Dictionary Basics
-  - The code uploaded shows basic usage of dictionaries.
+  - The code uploaded shows basic usage of dictionaries. This includes adding and modifying entries.
   
 </p>
 </details>
